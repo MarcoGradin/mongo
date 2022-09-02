@@ -7,4 +7,3 @@ Mongo.connect(URL, (error,db)=>{
     console.log('Base de Datos Creada');
     db.close();
 });
-
